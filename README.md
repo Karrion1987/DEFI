@@ -4,7 +4,9 @@
 
 ## Video Explicativo
 
-[![Video sobre el Proyecto](https://via.placeholder.com/800x400.png?text=Haz+clic+para+ver+el+video)](https://share.vidnoz.com/aivideo?id=aishare-qBLkwYqjwsaWCVkkz5yLCL2E17348308813782192)
+Para obtener una explicación detallada sobre cómo funciona el proyecto y cómo usarlo, haz clic en el siguiente botón:
+
+[![Ver Video](https://img.shields.io/badge/Ver%20Video-blue?style=for-the-badge&logo=youtube)](https://share.vidnoz.com/aivideo?id=aishare-qBLkwYqjwsaWCVkkz5yLCL2E17348308813782192)
 
 ---
 
