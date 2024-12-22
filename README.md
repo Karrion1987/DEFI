@@ -1,19 +1,45 @@
-# Proportional Token Farm
+# **Simple Defi Farm**
 
-Este proyecto implementa una simple Token Farm DeFi que permite a los usuarios realizar depósitos y retiros de un token mock LP, así como reclamar recompensas generadas durante el staking.
+**Simple Defi Farm** es una plataforma DeFi (Finanzas Descentralizadas) que permite a los usuarios interactuar con contratos inteligentes para realizar staking de tokens LP (Liquidity Provider), generar recompensas a partir de sus depósitos, y gestionar sus inversiones de manera eficiente. Este proyecto es ideal para aquellos interesados en experimentar con el farming de tokens, así como aprender sobre las mecánicas fundamentales de las plataformas DeFi.
 
-## Contratos
+---
 
-- `LPToken.sol`: Contrato del token LP, utilizado para el staking.
-- `DappToken.sol`: Contrato del token de la plataforma, utilizado como recompensa.
-- `TokenFarm.sol`: Contrato de la Farm.
+## **Características Principales**
 
-## Despliegue
+- **Staking de Tokens LP**: Los usuarios pueden realizar staking de tokens LP (Liquidity Provider) para generar recompensas.
+- **Generación de Recompensas**: Las recompensas se distribuyen a los usuarios de acuerdo con su participación en el staking.
+- **Retiros y Reclamaciones**: Los usuarios pueden retirar sus tokens y reclamar sus recompensas en cualquier momento.
+- **Contratos Inteligentes Seguros**: Los contratos están diseñados para ser seguros, transparentes y fáciles de auditar.
+- **Fácil Implementación**: Desplegar los contratos en cualquier red compatible con Ethereum es un proceso sencillo.
 
-Para desplegar los contratos en un entorno local, sigue estos pasos:
+---
 
-1. Clona el repositorio y navega al directorio del proyecto.
-2. Instala las dependencias necesarias:
+## **Estructura del Proyecto**
 
-   ```sh
-   npm install
+Este proyecto se compone de los siguientes contratos inteligentes:
+
+- **`LPToken.sol`**: Contrato ERC20 que representa el token LP utilizado para realizar staking.
+- **`DappToken.sol`**: Contrato ERC20 que representa el token de recompensa de la plataforma.
+- **`TokenFarm.sol`**: Contrato principal que gestiona el staking, las recompensas y las interacciones entre los usuarios.
+
+---
+
+## **Requisitos del Sistema**
+
+Para trabajar con este proyecto, asegúrate de tener instalados los siguientes programas:
+
+- [Node.js](https://nodejs.org) v16 o superior.
+- [npm](https://www.npmjs.com/) o [Yarn](https://yarnpkg.com/) para gestionar las dependencias.
+- [Hardhat](https://hardhat.org) para el desarrollo y despliegue de contratos inteligentes.
+
+---
+
+## **Guía de Despliegue y Configuración**
+
+### **1. Clonar el Repositorio**
+
+Primero, clona el repositorio en tu máquina local:
+
+```bash
+git clone https://github.com/Karrion1987/DEFI.git
+cd DEFI
