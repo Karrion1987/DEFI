@@ -2,6 +2,10 @@
 
 **Simple Defi Farm** es una plataforma DeFi (Finanzas Descentralizadas) que permite a los usuarios interactuar con contratos inteligentes para realizar staking de tokens LP (Liquidity Provider), generar recompensas a partir de sus depósitos, y gestionar sus inversiones de manera eficiente. Este proyecto es ideal para aquellos interesados en experimentar con el farming de tokens, así como aprender sobre las mecánicas fundamentales de las plataformas DeFi.
 
+## Video Explicativo
+
+[![Video sobre el Proyecto](https://via.placeholder.com/800x400.png?text=Haz+clic+para+ver+el+video)](https://share.vidnoz.com/aivideo?id=aishare-qBLkwYqjwsaWCVkkz5yLCL2E17348308813782192)
+
 ---
 
 ## **Características Principales**
