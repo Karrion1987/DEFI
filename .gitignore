@@ -1,0 +1,67 @@
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
+
+# Node modules (dependencias)
+node_modules/
+
+# Archivos de entorno (contienen claves privadas y otros datos sensibles)
+.env
+
+# Archivos de Hardhat que contienen información temporal de compilación y pruebas
+artifacts/
+cache/
+
+# Archivos de compilación específicos de Hardhat
+*.log
+*.tsbuildinfo
+
+# Compilados de TypeScript (si usas TypeScript)
+*.tsbuildinfo
+
+# Directorios generados por el despliegue (si usas redes específicas o scripts de despliegue)
+deployments/
+
+# Carpeta de cobertura de tests
+coverage/
+
+# Archivos de lock de dependencias
+package-lock.json
+yarn.lock
+
+# Archivos temporales
+*.tmp
+
+# Claves privadas y otros archivos sensibles
+*.key
+*.pem
+*.jks
+
+# Editor/IDE-specific files
+.vscode/
+.idea/
+
+# Archivos de backups
+*.bak
+*.swp
+
+node_modules/
+.env
+.idea/
+.vscode/
+build/
+cache/
